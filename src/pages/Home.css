@@ -1,0 +1,16 @@
+.row-class-home{
+    padding: 5px;
+}
+
+.button-home{
+    padding: 2 20px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+hr.border-hr{
+    border: 1px solid black;
+    text-align: center;
+}
+

@@ -1,0 +1,33 @@
+.cart{
+    background-color: white;
+    position: fixed;
+    top: 50px;
+    right: 0;
+    height: 95%;
+    width: 25% !important;
+    z-index: 1100;
+}
+
+.cart-main{
+  display: flex;
+  font-weight: bold;
+  text-align: center;
+}
+
+.cart-item{
+    font-weight: bold;
+    width: 40%;
+    text-align: center;
+}
+.cart-price{
+    font-weight: bold;
+    width: 30%;
+    text-align: center; 
+}
+
+.cart-quantity{
+    font-weight: bold;
+    width: 30%;
+    /* text-align: center;  */
+}
+
